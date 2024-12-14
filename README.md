@@ -6,7 +6,7 @@
 
 | No. | Questions |
 |---- | ---------|
-|1    | [What is Computer programming?	](# )|
+|1    | [What is programming?	](# )|
 |2    | [How programming work?	](# )|
 |3    | [What is debugging?	](# )|
 |4    | [Name different types errors which can occur during the execution of a program?	](# )|
@@ -227,7 +227,7 @@
 
 # PROGRAMMING CONCEPT
 
-### What is Computer programming?
+### What is programming?
 
 Computer Programming is also known as programming or coding. Programming is a process which includes processes such as coding, maintaining, updating, debugging, writing, designing (algorithm), etc.
 
